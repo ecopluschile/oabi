@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+/ms-playwright/
+.env
+temp_oabi.xlsx
+*.xlsx
+*.xls
+*.log
